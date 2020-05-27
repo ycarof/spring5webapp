@@ -9,8 +9,6 @@ import guru.springframework.spring5webapp.repositories.PublisherRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
-import java.util.Arrays;
-
 @Component
 public class BootStrapData implements CommandLineRunner {
 
